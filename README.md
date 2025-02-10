@@ -1,2 +1,2 @@
 # Portifolio-Canva
-portifolio para espor projeto do canva
+portifolio para expor projetos feito com o canva
